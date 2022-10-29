@@ -44,14 +44,6 @@ h1 {
   margin-bottom: 8px;
 }
 
-p.username {
-  font-family: 'Roboto Mono', monospace;
-  font-weight: 400;
-  font-size: 18px;
-  color: #00082F;
-  opacity: 0.8;
-}
-
 ul {
   list-style: none;
   margin: 48px 0;
