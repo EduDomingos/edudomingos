@@ -70,6 +70,12 @@ h1 {
   font-size: 32px;
   margin-top: 24px;
   margin-bottom: 8px;
+
+  transition: color 400ms;
+}
+
+h1:hover {
+  color: var(--primary-color);
 }
 
 p.username {
